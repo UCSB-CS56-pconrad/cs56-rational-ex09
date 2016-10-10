@@ -1,3 +1,4 @@
+package edu.ucsb.cs56.pconrad.rational;
 public class Rational {
 
     private int num;
